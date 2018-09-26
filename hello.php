@@ -1,4 +1,5 @@
 <?php
+$name = 'Amritendu';
   echo "Hello World!";
-  echo "This is Amritendu";
+  echo "This is ".$name;
 ?>
